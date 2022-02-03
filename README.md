@@ -2,7 +2,7 @@
 This is coffee machine using OOPs  in python
 
 Program requirements:
-1. Prints report
+1. Prints reports
 2. Checks for sufficient resources
 3. Processes coins entered
 4. Checks for successful transaction
